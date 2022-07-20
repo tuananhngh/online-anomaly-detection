@@ -1,0 +1,1 @@
+python test_osvm.py -i './data/realKnownCause/machine_temperature_system_failure.csv' -o './results/osvm_machine_failures.txt' -sdt '2013-12-14' -r 12
